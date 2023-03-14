@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, I'm Anthony!
+
+I am a software engineer and I love exploring languages, technologies and understanding how they work.
+
+- Favourite languages & technologies include: .NET, C#, F# and Rust.
+- Socket programming and network protocols is my thing.
+- Currently working on Rift, a netty inspired framework for .NET. (I hope I can open source it soon! 😊)
+- Also building a CLI time tracking tool using Rust.
+- Trying to learn Vim just so I can say "I use Vim by the way".
 
 <!--
 **AntonisManiatis/AntonisManiatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
